@@ -22,8 +22,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-<!-- Aiken -->
 ![Aiken](https://img.shields.io/badge/Aiken-%23000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAAA5hz6mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAr0lEQVR4nGNgoDfg/4Sh/8+ZGBgY/jMwMDD8+/fvfwYk)
 
 # GitHub Stats:
