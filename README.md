@@ -1,5 +1,5 @@
 # About Me:
-🌱 I’m currently learning Blockchain and Web3<br>💬 Ask me about React, Aiken, Meshjs
+🌱 I’m currently learning Blockchain and Web3<br>💬 Ask me about React, Aiken, Meshjs.
 
 
 ## Socials:
