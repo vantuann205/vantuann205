@@ -25,11 +25,13 @@
 ![MeshJS](https://img.shields.io/badge/MeshJS-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Aiken](https://img.shields.io/badge/Aiken-8B4513.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAAA5hz6mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAr0lEQVR4nGNgoDfg/4Sh/8+ZGBgY/jMwMDD8+/fvfwYk)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vantuann205&" alt="vantuann205" /></p>
+
+# GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=vantuann205&theme=everforest-dark)](https://git.io/streak-stats)
  
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vantuann205&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vantuann205&theme=default)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vantuann205&icon=10&color=2)](https://visitcount.itsvg.in)
