@@ -27,10 +27,10 @@
 
 
 # GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=vantuann205&theme=everforest-dark)](https://git.io/streak-stats)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vantuann205&theme=monokai)
 
 # Top Language:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vantuann205)](https://github.com/EthanJamesLew/github-readme-stats-academic)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vantuann205&theme=nord_bright)
 
 ### Top Contributed Repo
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vantuann205&theme=default)
