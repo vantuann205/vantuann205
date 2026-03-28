@@ -26,14 +26,14 @@
 ![Aiken](https://img.shields.io/badge/Aiken-8B4513.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAAA5hz6mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAr0lEQVR4nGNgoDfg/4Sh/8+ZGBgY/jMwMDD8+/fvfwYk)
 
 
-# GitHub Stats:
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vantuann205&theme=monokai)
+# GitHub Streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=vantuann205&theme=everforest-dark)](https://git.io/streak-stats)
 
 # Top Language:
 ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vantuann205&theme=nord_bright)
 
 ### Top Contributed Repo
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vantuann205&theme=default)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vantuann205&theme=monokai)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vantuann205&icon=10&color=2)](https://visitcount.itsvg.in)
