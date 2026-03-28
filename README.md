@@ -30,7 +30,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=vantuann205&theme=everforest-dark)](https://git.io/streak-stats)
 
 # Top Language:
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vantuann205)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vantuann205)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 ### Top Contributed Repo
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vantuann205&theme=default)
